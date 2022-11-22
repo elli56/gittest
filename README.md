@@ -11,4 +11,5 @@ another string in my test docu
 
 new string for commit
 
+last string 
 
